@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="enter_phone_no">Enter Phone No.</string>
+    <string name="no_of_pax">No. of Pax</string>
+    <string name="enter_no_of_pax">Enter no. of Pax</string>
+    <string name="smoking_area">Smoking Area</string>
+    <string name="select_date_and_time">SELECT DATE AND TIME</string>
+</resources>
